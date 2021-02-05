@@ -1,5 +1,5 @@
 '''
-This module contains functions.
+This module contains functions.https://github.com/Vl-tb/Squareside
 '''
 def user_input() -> tuple:
     '''
