@@ -6,7 +6,7 @@ def user_input() -> tuple:
     This function takes data from user: 3 sides of triangle and accuracy.
     Return tuple with this data.
     '''
-    print("Enter 4 parameters: 3 sides of triangle and accuracy")
+    print("Enter only 4 parameters: 3 sides of triangle and accuracy")
     side_1 = input()
     side_2 = input()
     side_3 = input()
