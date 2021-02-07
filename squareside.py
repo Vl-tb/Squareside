@@ -49,3 +49,4 @@ if __name__ == '__main__':
     triangle = triangle_area(float(tpl[0]), float(tpl[1]), float(tpl[2]))
     square = square_area(triangle, float(tpl[2]), int(tpl[3]))
     write_in_file(square)
+    print("okays")
